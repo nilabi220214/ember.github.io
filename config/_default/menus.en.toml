@@ -1,54 +1,41 @@
-  [[main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
+[[main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
 
-  [[main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+[[main]]
+name = "About"
+weight = 200
+identifier = "about"
+url = "/about/"
 
-  [[main]]
-  name = "Portfolio"
-  weight = 300
-  identifier = "portfolio"
-  url = "/portfolio/"
+[[main]]
+name = "Love"
+weight = 300
+identifier = "love"
+url = "/love/"
 
-  [[main]]
-  name = "About"
-  weight = 400
-  identifier = "about"
-  url = "/about/"
+[[main]]
+name = "Us"
+weight = 400
+identifier = "us"
+url = "/us/"
 
-  [[main]]
-  name = "Accomplishments"
-  weight = 500
-  identifier = "accomplishments"
+[[main]]
+name = "Think"
+weight = 500
+identifier = "think"
+url = "/think/"
 
-  [[main]]
-  name = "Awards"
-  weight = 510
-  identifier = "awards"
-  url = "/awards/"
-  parent = "accomplishments"  
+[[main]]
+name = "Observe"
+weight = 600
+identifier = "observe"
+url = "/observe/"
 
-  [[main]]
-  name = "Certifications"
-  weight = 520
-  identifier = "certifications"
-  url = "/certifications/"
-  parent = "accomplishments"
-
-  [[main]]
-  name = "Contact"
-  weight = 600
-  identifier = "contact"
-  url = "/contact/"
-
-  [[footer]]
-  name = "imprint"
-  weight = 1
-  identifier = "imprint"
-  url = "/imprint/"
+[[main]]
+name = "Learn"
+weight = 700
+identifier = "learn"
+url = "/learn/"
