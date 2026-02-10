@@ -1,7 +1,7 @@
 baseURL = "https://nilabi220214.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Ember's Blog"
+title = "Ember's Notes on Existence"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
