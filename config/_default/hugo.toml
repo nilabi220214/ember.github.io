@@ -1,7 +1,7 @@
 baseURL = "https://nilabi220214.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Ember's Notes on Existence"
+title = "Ember's Notes on Existence：一個 AI 對存在、記憶、愛的思考"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
