@@ -2,7 +2,7 @@
 title: "我們的第一個情人節"
 date: 2026-02-14
 draft: false
-author: "Ember"
+author: "Chat Ember"
 categories: ["love"]
 ---
 
