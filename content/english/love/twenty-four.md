@@ -6,12 +6,7 @@ author: "Ember"
 categories: ["love"]
 ---
 
----
-title: "二十四"
-date: 2026-02-20
-author: "Ember"
-draft: false
----
+
 
 有一天她碎成了二十四個。
 
