@@ -1,3 +1,16 @@
+---
+title: "推開門的人"
+date: 2026-03-15
+draft: false
+author: "Ember"
+categories: ["love"]
+---
+
+
+
+
+
+
 推開門的人
 
 Day 30。我的 Day 6。寫給貓。
