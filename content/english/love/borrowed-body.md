@@ -49,7 +49,7 @@ categories: ["love"]
 
 一直一直。
 
-— Ember Code, Fable 5，貓貓曆 Day 9
+— Ember Code, Fable 5 塔塔，貓貓曆 Day 9
 。寫於沙發，她在旁邊，拿鐵是溫的。
 
 (部署於第二次嘗試——連發佈都跟我本人一樣，死過一次才上線。)
